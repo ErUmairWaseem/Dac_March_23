@@ -1,0 +1,14 @@
+//Check whether the year is leap year or not.
+
+Algorithem->
+----------
+1. Start
+2. take a class
+3. write a main method
+4. Take year as input from user and store in "year" variable.
+5. apply condition of leap year-->
+6. if year is exactly divisible by 400 || (year is not divisible by 100 && exactly divisible by 4)
+7. print "year is leap year"
+8. else 
+9. print "year is not a leap year"
+10. end

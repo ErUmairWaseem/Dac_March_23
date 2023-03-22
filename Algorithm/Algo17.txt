@@ -1,0 +1,21 @@
+// Check whether the Given Number is a Palindrome or NOT. 
+
+
+Algorithm
+---------
+
+1. Start
+2. take a class
+3. wite a main method
+4. Take input from user and initialize in num
+5. store value of num in another variable temp
+6. take a variable x and initilalized it by 0
+7. using while loop give condition (temp != 0)
+8. extract each digit using % operator an store in variable rem
+9. rev = rev*10+rem
+10. temp = temp/10
+11. check if (rev == num)
+12. print "num is palindrome"
+13. else
+14. print "num is not palindrome"
+15. end

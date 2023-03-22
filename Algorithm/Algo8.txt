@@ -1,0 +1,16 @@
+//Write a Java Program to print the number of digits of a Given Number. 
+
+Algorithm->
+----------
+
+1. start
+2. take a class
+3. write a main method
+2. Take number as a input from a user and initialized it in "num" variable
+3. take a variable count, initialized it by 0
+4. using while loop (when num is not equal to 0)
+5. extract the digit one by one by using % operator and store it other variable m
+6. increase the value of count by one
+7. num = num / 10  // truncate last digit
+8. print value of count
+9. end

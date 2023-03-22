@@ -1,0 +1,14 @@
+//Write a java program to Reverse a given number. 
+
+Algorithm
+---------
+
+1. start
+2. take a class
+3. write main method
+4. take a input from user and initialize it in variable digit
+5. take while loop give codition (digit != 0)
+6. extract the digits one by one using % operator
+7. print the value of digit
+8. digit = digit/10;
+9. end

@@ -1,0 +1,18 @@
+
+
+//check if the given number is EVEN OR ODD.
+
+Algorithem-->
+------------
+
+1. start
+2. make a class
+3. write main method
+4. Take input from user
+   i.e. any number
+5. apply conditions-
+   if number is dvisible by 2
+   print "number is even"
+   else
+   print "number is odd"
+6. end

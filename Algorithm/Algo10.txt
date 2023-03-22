@@ -1,0 +1,16 @@
+//Write a Java Program to find the sum of the digits of a given number.
+
+Algorithm->
+----------
+
+1. Start
+2. take a class
+3. write main method
+4. Take a digit from user as a input.
+3. initilize sum by 0
+5. take a while loop (digit != 0)
+6. exract the digit using modulus operator and initialize in variable m
+7. sum = sum +m
+8. num = num /10
+9. print the value of sum 
+10. end

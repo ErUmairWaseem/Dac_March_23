@@ -1,0 +1,22 @@
+//Write an algorithm to calculate the total marks,average & percentage of five subject of a student.
+
+Algorithm->
+----------
+
+1. Start
+2. take class marksheet
+3. take input from user (marks of five subject)
+4. store marks in a,b,c,d & e variables
+5. find sum
+	i.e. a+b+c+d+e
+6. store sum in s variable
+7. print sum
+8. find average
+    i.e. avg = sum/total subject
+9. store avg in avg varible
+10. print avg
+11. find percentage
+    i.e. (sum/500)*100
+12. store percentage in p variable
+13. print percentage
+14. end 

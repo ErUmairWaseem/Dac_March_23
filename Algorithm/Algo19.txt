@@ -1,0 +1,13 @@
+// To print the following series EVEN number Series 2 4 6 8 10 12 14 16 .....
+
+Algorithm->
+-----------
+
+1. Start
+2. take a input from user as range
+3. store range in variable x
+4. write a variable i and initialized by 2
+5. through for loop traverse from i to number and increase i by 1
+6. check if i%2 == 0
+7. print result upto range.
+8. end

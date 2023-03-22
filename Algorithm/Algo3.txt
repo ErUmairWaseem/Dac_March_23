@@ -1,0 +1,17 @@
+// Write a Algorithm to find the Factorial of a given number using recursion.
+
+Algorithm->
+----------
+
+1. Start
+2. write a class factorial
+3. write main method
+4. Take input from user and store in varible num.
+5. Write another method factorial which return some value and take some value x from main method 
+6. check if x == 0
+7. It will return x to main method
+8. else
+9. It return x*(x-1) computation to the main
+10. main methode takes value from factorial method
+11. print the result in main.
+12. ends

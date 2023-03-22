@@ -1,0 +1,17 @@
+//Write a Java Program to find the smallest of 3 numbers (a,b,c)
+
+Algorithm->
+----------
+
+1. Start
+2. take a class
+3. write main methode
+4. Take inuput from user and initialize them a,b & c
+5. compare all three
+6. if a>b && a>c
+7. print "a is graeter"
+8. if else b>a && b>c
+9. print "b is greater"
+10. else
+11. print "c is greater"
+11. end 

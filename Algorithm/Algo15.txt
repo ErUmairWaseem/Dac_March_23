@@ -1,0 +1,18 @@
+//. Write a java program to find LCM of TWO given numbers. 
+
+Algorithm
+
+1. start
+2. take a class
+3. write main method
+4. take two inputs from user and initialize them in a and b
+5. initialize hcf=1
+6. take while loop check condition(a != b)
+7. if a>b
+8. a = a-b
+9. else 
+10. b = b-a
+11. hcf=aorb
+12. lcm = (a*b)/hcf
+13. print lcm
+14. end

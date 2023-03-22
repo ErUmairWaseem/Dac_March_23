@@ -1,0 +1,13 @@
+//Write a Java Program to print all the Factors of the Given number.
+
+
+1. Start
+2. take a class
+3. write a main method
+4. Take number as a input from user
+5. take variable i and initialize it to 0
+6. iterate from i to number using for loop
+7. if any of ith number perfecty divide the number
+   i.e. num%i == 0
+8. print the value of i
+9. end

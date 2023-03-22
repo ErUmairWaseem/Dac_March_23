@@ -1,0 +1,19 @@
+//Swapping of two numbers without using third variable
+
+Algorithem->
+-----------
+
+1. Start
+2. make a class
+3. write main method
+4. initialize two numbers
+   a=4, b=8
+   Apply conditions
+5. adding a and b and store it in a.
+   i.e. -> 4+8=12  //a=a+b
+6. subtracting b from a and store it in b.
+      b = 12-8=4  //b=a-b
+7. sutracting b from a and store it in a.
+	  a = 12-4=8  //a=a-b
+8. print the result
+9. end

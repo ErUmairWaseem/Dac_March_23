@@ -1,0 +1,15 @@
+//Write a Java Program to find the GCD of two given numbers. 
+
+Algorithm
+
+1. start
+2. take a class
+3. write main method
+4. take two inputs from user and initialize them in a and b
+5. take while loop chech condition(a != b)
+6. if a>b
+7. a = a-b
+8. else 
+9. b = b-a
+10. print the value one of them
+11. end

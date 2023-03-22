@@ -1,0 +1,16 @@
+//Write a program to find the factorial of a given number.
+
+Algorithem->
+-----------
+
+1. start 
+2. make a class
+3. write main method
+4. Take input from user
+   i.e. (number)
+5. Apply conditions
+6. take  a variable fact, store 1 in it
+7. take a for loop, apply conditions from 1 to <= number
+8. increase the value of fact by 1 in each iteration
+9. print the value of fact
+10. ends
